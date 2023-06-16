@@ -1,0 +1,5 @@
+- rearchitect to use API Gateway instead of using Lambda endpoint
+- let perform a clickops operation and cause drift
+- lets correct drift
+- lets observe if Generative AI can be used to produce terraform
+- lets switch from using the CLI actions
