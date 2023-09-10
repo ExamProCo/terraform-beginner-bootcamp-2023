@@ -1,5 +1,21 @@
 # Terraform Beginner Bootcamp 2023
 
+## Semantic Versioning
+
+This project uses semantic versioning.
+If you want to learn about this format of versioning you can read the the [Semantic Versioning Guide](https://semver.org/)
+
+### TL;DR
+
+Our tagging will have the following format:
+
+MAJOR.MINOR.PATCH eg. `1.0.0`
+
+- MAJOR version when you make incompatible API changes
+- MINOR version when you add functionality in a backward compatible manner
+- PATCH version when you make backward compatible bug fixes
+
+
 ## Installation Requirements
 
 ### Installing Terraform CLI
